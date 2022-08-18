@@ -1,5 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
+  padding: 20px 250px;
+}
+
+.Nav {
+  height: 100px;
+  background-color: rgb(3, 32, 32);
+  color: white;
+}
+
+.Nav h1 {
+  padding-left: 170px;
+  padding-top: 30px;
 }
 
 .App-logo {
